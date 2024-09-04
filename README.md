@@ -1,7 +1,7 @@
 # Davi Braz | Desenvolvedor de Software 👩‍💻
 
 - 🚀 Futuro Engenheiro de Software
-- 🎓 Engenharia de Software @ [UNICSUL]([https://portal.ufpel.edu.br/](https://www.cruzeirodosuleducacional.com.br/a-companhia/quem-somos/))
+- 🎓 Cursando Engenharia de Software @ [UNICSUL](https://www.cruzeirodosuleducacional.com.br/a-companhia/quem-somos/)
 - 🌐 Atualmente desenvolvendo aplicações web
 - 📧 Entre em contato: davibraz.profissional@gmail.com
 
@@ -16,6 +16,6 @@
   <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="50" width="70" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/docker-svgrepo-com.svg">
-  
-  
 </div>
+<br>
+<p> ( Spring  |  Java  |  Node JS  |  Typescript  |  React JS  |  HTML  |  CSS  |  Javascript  |  Python  |  docker ) </p>
