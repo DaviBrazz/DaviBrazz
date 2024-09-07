@@ -2,7 +2,7 @@
 
 - 🚀 Futuro Engenheiro de Software
 - 🎓 Cursando Engenharia de Software @ [UNICSUL](https://www.cruzeirodosuleducacional.com.br/a-companhia/quem-somos/)
-- 🌐 Atualmente desenvolvendo aplicações web
+- 🌐 Atualmente desenvolvendo aplicações web e visão computacional
 - 📧 Entre em contato: davibraz.profissional@gmail.com
 
 <div style="display: inline_block"><br>
