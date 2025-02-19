@@ -21,4 +21,4 @@
    
 </div>
 <br>
-<p> ( Spring  |  Java  | Neste JS |  Node JS  |  Typescript  |  React JS  |  HTML  |  CSS  |  Javascript  |  Python  |  docker ) </p>
+<p> ( Spring  |  Java  | Nest JS |  Node JS  |  Typescript  |  React JS  |  HTML  |  CSS  |  Javascript  |  Python  |  docker ) </p>
