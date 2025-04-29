@@ -19,4 +19,5 @@
    
 </div>
 <br>
-<p> ( Spring  |  Java  | Nest JS |  Node JS  |  Typescript  |  React JS  |  Javascript  |  Python  |  docker ) </p>
+<p> (   Spring   |   Java   |   Nest JS   |    Node JS   |    Typescript   |   React JS   |   Javascript    |    Python    |    docker   ) </p>
+ 
