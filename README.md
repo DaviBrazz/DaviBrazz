@@ -7,7 +7,7 @@
 
 <div style="display: inline_block"><br>
    <img align="center"  height="70" width="80" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/Spring_Framework_Logo_2018.svg">
-  <img align="center"  height="60" width="70" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/java-original.svg">
+  <img align="center"  height="60" width="70" alt="logo-java" src="https://raw.githubusercontent.com/DaviBrazz/assets/5d0984324f049ec429aa9d926d5a41a1dc46e416/images/logos-svg/java-original.svg">
    <img align="center"  height="60" width="70" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/NestJS.svg">
   <img align="center"  height="80" width="90" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/node-js-svgrepo-com.svg">
   <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
