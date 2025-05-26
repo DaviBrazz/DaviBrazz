@@ -13,11 +13,10 @@
   <img align="center"  height="40" width="50"  alt="logo-typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="50" width="70"  alt="logo-react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center"  height="40" width="50"  alt="logo-javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="50" width="70"  alt="logo-python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="50" width="70"  alt="logo-docker" src="https://github.com/DaviBrazz/assets/blob/main/images/logos-svg/docker-svgrepo-com.svg">
 
    
 </div>
 <br>
-<p> (   Spring   |   Java   |   Nest JS   |    Node JS   |    Typescript   |   React JS   |   Javascript    |    Python    |    docker   ) </p>
+<p> (   Spring   |   Java   |   Nest.js   |    Node.js   |    Typescript   |   React.js   |   Javascript    |   docker   ) </p>
  
