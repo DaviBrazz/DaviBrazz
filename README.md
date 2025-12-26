@@ -1,4 +1,4 @@
-# Davi Braz | Desenvolvedor de Software 👩‍💻
+# Davi Braz | Desenvolvedor de Software
 
 - 🚀 Futuro Engenheiro de Software
 - 🎓 Cursando Engenharia de Software @ [UNICSUL](https://www.cruzeirodosuleducacional.com.br/a-companhia/quem-somos/)
