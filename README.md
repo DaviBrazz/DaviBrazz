@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Davi Braz
 
-## Desenvolvedor Full Stack | Backend Focus | Node.js • NestJS • Java • Spring Boot • Next.js
+### Desenvolvedor Full Stack | Backend Focus | Node.js • NestJS • Java • Spring Boot • Next.js
 
 Sou desenvolvedor **Full Stack**, com forte foco em **backend moderno, APIs escaláveis e arquitetura limpa**.  
 Atuo no desenvolvimento de aplicações web completas, desde **interfaces performáticas até sistemas backend robustos**, sempre aplicando **boas práticas, padrões de projeto e organização de código**.
